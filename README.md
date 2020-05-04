@@ -10,5 +10,5 @@ This is my first demo project
 
 *hello this is italic text*
 
-this was mistaken text
+~~This was mistaken text~~
 
